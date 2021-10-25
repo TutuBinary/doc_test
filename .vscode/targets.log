@@ -7,7 +7,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Mon Oct 25 10:45:28 2021
+# Make data base, printed on Mon Oct 25 11:00:04 2021
 
 # Variables
 
@@ -58,7 +58,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-f8722d8e-7d53-4a79-9ca9-48ea9c113e69-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-b7ba899d-2728-4731-9762-00da8f511ae3-sock
 # environment
 VSCODE_CWD = E:\1.software\Microsoft VS Code
 # environment
@@ -86,7 +86,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 CLASSPATH = E:\1.software\jdk_8u201\lib;E:\1.software\jdk_8u201\lib\tools.jar
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11604_WTXQEJKUZDNDWASM
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_13672_ZNZLKSFKCCEKRQAK
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -210,7 +210,7 @@ FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # makefile (from 'Makefile', line 8)
 SOURCEDIR = .
 # environment
-VSCODE_PID = 11604
+VSCODE_PID = 13672
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-VND61V4
 # variable set hash-table stats:
@@ -252,8 +252,7 @@ all: Makefile
 #  Implicit/static pattern stem: 'all'
 #  File does not exist.
 #  File has been updated.
-#  Needs to  
-be updated (-q is set).
+#  Needs to be updated (-q is set).
 # automatic
 # @ := all
 # automatic
@@ -323,6 +322,6 @@ help:
 # strcache performance: lookups = 3572 / hit rate = 2%
 # hash-table stats:
 # Load=3467/8192=42%, Rehash=0, Collisions=1177/3572=33%
-# Finished Make data base on Mon Oct 25 10:45:28 2021
+# Finished Make data base on Mon Oct 25 11:00:04 2021
 
  
