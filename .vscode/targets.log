@@ -5,8 +5,9 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
+ 
 
-# Make data base, printed on Sat Oct 23 10:17:24 2021
+# Make data base, printed on Mon Oct 25 10:45:28 2021
 
 # Variables
 
@@ -57,7 +58,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-41346e32-cd81-46da-b6e9-82d5eec42bab-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-f8722d8e-7d53-4a79-9ca9-48ea9c113e69-sock
 # environment
 VSCODE_CWD = E:\1.software\Microsoft VS Code
 # environment
@@ -85,7 +86,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 CLASSPATH = E:\1.software\jdk_8u201\lib;E:\1.software\jdk_8u201\lib\tools.jar
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_2020_ADFNDVQYCEIEMFBO
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11604_WTXQEJKUZDNDWASM
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -209,7 +210,7 @@ FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # makefile (from 'Makefile', line 8)
 SOURCEDIR = .
 # environment
-VSCODE_PID = 2020
+VSCODE_PID = 11604
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-VND61V4
 # variable set hash-table stats:
@@ -223,13 +224,13 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-VND61V4
 
 # E:\1.software\4.Git\bin (key E:/1.software/4.Git/bin, mtime 1622890777): 77 files, no impossibilities so far.
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1605754581): 31 files, no impossibilities.
-# . (key d:/12.�������/3.doc/0.test, mtime 1634904648): 10 files, no impossibilities.
+# . (key d:/12.�������/3.doc/0.test, mtime 1635128809): 12 files, no impossibilities.
 # C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 1626919461): 5 files, no impossibilities.
 # C:\Windows\System32\OpenSSH\: could not be stat'd.
 # E:\1.software\4.Git\cmd (key E:/1.software/4.Git/cmd, mtime 1622639109): 8 files, no impossibilities.
 # E:\1.software\c_check (key E:/1.software/c_check, mtime 1621223706): 27 files, no impossibilities.
 # C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility (key C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility, mtime 1620460681): 3 files, no impossibilities.
-# C:\Windows (key C:/Windows, mtime 1622868323): 114 files, no impossibilities.
+# C:\Windows (key C:/Windows, mtime 1622868323): 112 files, no impossibilities.
 # C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1605754581): 171 files, no impossibilities.
 # C:\Windows\system32 (key C:/Windows/system32, mtime 1634021286): 3100 files, no impossibilities.
 
@@ -251,7 +252,8 @@ all: Makefile
 #  Implicit/static pattern stem: 'all'
 #  File does not exist.
 #  File has been updated.
-#  Needs to be updated (-q is set).
+#  Needs to  
+be updated (-q is set).
 # automatic
 # @ := all
 # automatic
@@ -313,14 +315,14 @@ help:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 7 (6) / strings = 3467 / storage = 52667 B / avg = 15 B
-# current buf: size = 8174 B / used = 3682 B / count = 227 / avg = 16 B
-# other used: total = 44493 B / count = 3240 / avg = 13 B
-# other free: total = 59 B / max = 13 B / min = 3 B / avg = 9 B
+# strcache buffers: 7 (6) / strings = 3467 / storage = 52652 B / avg = 15 B
+# current buf: size = 8174 B / used = 3670 B / count = 226 / avg = 16 B
+# other used: total = 44478 B / count = 3241 / avg = 13 B
+# other free: total = 62 B / max = 14 B / min = 2 B / avg = 10 B
 
 # strcache performance: lookups = 3572 / hit rate = 2%
 # hash-table stats:
-# Load=3467/8192=42%, Rehash=0, Collisions=1176/3572=33%
-# Finished Make data base on Sat Oct 23 10:17:24 2021
+# Load=3467/8192=42%, Rehash=0, Collisions=1177/3572=33%
+# Finished Make data base on Mon Oct 25 10:45:28 2021
 
  
